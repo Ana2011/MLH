@@ -5,7 +5,9 @@
   "age": "#age",
   "story": ".ant-select-selector",
   "imageTitle": "label[class='']",
-  "submitButton": ".ant-btn",
+  "create": ".ant-btn",
   "storyClick": ".ant-select-show-arrow",
-  "storyType": ".ant-select-item-option"
+  "storyType": ".ant-select-item-option",
+  "placeholderStory": ".ant-select-selection-placeholder",
+  "tryAgain": ".btn-primary"
 }
