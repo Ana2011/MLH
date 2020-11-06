@@ -6,7 +6,13 @@
   "labelImage": "5. Upload an image (optional).",
   "labelPlaceholder": "Hero's name",
   "labelPlaceholderAge": "Hero's age",
-  "labelPlaceholderStory": "Type of the story"
+  "labelPlaceholderStory": "Type of the storyd",
+  "textHeG": " He ",
+  "textHisG": " his ",
+  "textSheG": " She ",
+  "textHerG": " her ",
+  "textItG": " It ",
+  "textItsG": " its "
 }
 
 

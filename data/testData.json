@@ -1,11 +1,15 @@
 {
   "name": "LadyBug",
+  "nameG": " 0236T6",
+  "name1G": "catcatcat±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±",
   "gender": {
     "he": 0,
     "she": 1,
     "it": 2
   },
   "age": 123,
+  "ageG": 15,
+  "age1G": 56892456,
   "storyType": {
     "Overcoming the Monster": 0,
     "Rebirth": 1,

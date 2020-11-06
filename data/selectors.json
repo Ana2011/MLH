@@ -9,5 +9,7 @@
   "storyClick": ".ant-select-show-arrow",
   "storyType": ".ant-select-item-option",
   "placeholderStory": ".ant-select-selection-placeholder",
-  "tryAgain": ".btn-primary"
+  "tryAgain": ".btn-primary",
+  "cardTextG": ".card-text"
+
 }
