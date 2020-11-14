@@ -10,6 +10,9 @@
   "storyType": ".ant-select-item-option",
   "placeholderStory": ".ant-select-selection-placeholder",
   "tryAgain": ".btn-primary",
-  "cardTextG": ".card-text"
-
+  "cardTextG": ".card-text",
+  "nameField": ".ant-input",
+  "inputDivG": ".ant-upload input",
+  "upload" : ".ant-upload input",
+  "pictureStoryPage" : ".mb-2"
 }

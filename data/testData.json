@@ -1,7 +1,9 @@
 {
   "name": "LadyBug",
   "nameG": " 0236T6",
+  "name2G": "0123456789",
   "name1G": "catcatcat±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±",
+  "name3G": "Hero",
   "gender": {
     "he": 0,
     "she": 1,
@@ -10,6 +12,8 @@
   "age": 123,
   "ageG": 15,
   "age1G": 56892456,
+  "age2G": 10,
+  "age3G": 1,
   "storyType": {
     "Overcoming the Monster": 0,
     "Rebirth": 1,
@@ -18,5 +22,6 @@
     "Rags and Riches": 4,
     "Tragedy": 5,
     "Comedy": 6
-  }
+  },
+  "imgPath" : "../data/flamingo2.png"
 }
